@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\Coding\\Theory\\##contest\\code.cpp","tests":[{"id":1645427561949,"input":"4\n4 5\n01000\n10100\n01010\n00110\n2 3\n001\n010\n3 3\n110\n101\n000\n1 1\n0\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\Theory\\##contest\\code.cpp","group":"local","local":true}
